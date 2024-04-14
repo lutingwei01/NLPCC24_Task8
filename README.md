@@ -63,4 +63,4 @@ If your publication employs our dataset, please cite the following article:
 }
 ```
 
-If you have any questions about this task, please email to [(ltw23@mails.tsinghua.edu.cn](mailto:ltw23@mails.tsinghua.edu.cn) (C.C. [yn-li23@mails.tsinghua.edu.cn](mailto:yn-li23@mails.tsinghua.edu.cn), [zheng.haitao@sz.tsinghua.edu.cn](mailto:zheng.haitao@sz.tsinghua.edu.cn)).
+If you have any questions about this task, please email to [ltw23@mails.tsinghua.edu.cn](mailto:ltw23@mails.tsinghua.edu.cn) (C.C. [yn-li23@mails.tsinghua.edu.cn](mailto:yn-li23@mails.tsinghua.edu.cn), [zheng.haitao@sz.tsinghua.edu.cn](mailto:zheng.haitao@sz.tsinghua.edu.cn)).
