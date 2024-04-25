@@ -26,15 +26,15 @@ All updates about this shared task will be posted on this page.
 
 We provide a Multi-Modal Entity Set Expansion benchmark named, MESED, distinguished by its Fine-grained Semantic Classes and Hard Negative Entities. This benchmark represents the first multi-modal ESE dataset meticulously calibrated through manual efforts. It comprises 14,489 entities sourced from Wikipedia, along with 434,675 image-sentence pairs. The 70 fine-grained semantic classes in MESED contain an average of 82 entities with a minimum of 23 and a maximum of 362. Each fine-grained class is structured to include 5 queries, each accompanied by three seed entities, and another 5 queries each with five seed entities.
 
-Download file from [this link](https://cloud.tsinghua.edu.cn/d/6d2a4a4ea7a14bf7b369/)  and run:
+Download file from [this link](https://cloud.tsinghua.edu.cn/d/6d2a4a4ea7a14bf7b369/) and run:
 
 
 ```
 cat dataset* > dataset.tar.gz
-wget -O data.tar.gz https://cloud.tsinghua.edu.cn/f/4538ef423b0d43df8b88/?dl=1
+tar zxvf dataset.tar.gz
 ```
 
-to get datasets used in our experiments.
+to get dataset used in our experiments.
 
 For more information related to this dataset, please refer to the README.md file on [GitHub](https://github.com/THUKElab/MESED).
 
